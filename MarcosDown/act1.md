@@ -154,4 +154,4 @@ $$x=\frac{-b\pm\sqrt{b²-4ac}}{2a}$$
 * Parentesis grandes
 $$\left (\sqrt{X²} \right)²$$
 * Colores
-$$\color{yellow}{A}\color{white}{aBb123}$$
+$$\color{yellow}{A}\color{black}{aBb123}$$
